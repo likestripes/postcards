@@ -2,10 +2,7 @@
   "type": "FeatureCollection",
   "features": [{
       "type": "Feature",
-      "properties": {
-        "name": "Hello, world",
-        "popupContent": "Farm raised."
-      },     
+      "properties": {},     
       "geometry": {
         "type": "Point",
         "coordinates": [
