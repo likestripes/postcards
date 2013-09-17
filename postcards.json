@@ -3,7 +3,7 @@
   "features": [{
       "type": "Feature",
       "properties": {
-        "name": "Hello, world"
+        "name": "Hello, world",
         "popupContent": "Farm raised."
       },     
       "geometry": {
