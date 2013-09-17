@@ -1,11 +1,6 @@
-postcards
-=========
 
-### Big data is made of people.
+This repo explores how we make big data - how all the individual data points make up the constellation of our lives.
 
-This repo explores how that works - how all the individual data points make up the constellation of our lives.
-
-=== 
 
 To add your own points, simply open "postcards.json" and add your points at the top.  You can add them by hand with a chunk of geoJSON that'll look like this:
 
